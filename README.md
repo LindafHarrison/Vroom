@@ -1,5 +1,9 @@
 # Vroom
 
+This was created as a front-end challenge without a back-end therefore to open in the command line:
+- npm init
+- npm run build
+- open html file
 
 ![image of website](/images/screenShot.png)
 

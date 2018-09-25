@@ -19,5 +19,9 @@ Get List of Vehicle Manufacturers: https://vpic.nhtsa.dot.gov/api/#GetAllManufac
 Get Manufacturer’s Details: https://vpic.nhtsa.dot.gov/api/#GetManufacturerDetails
 Requirements
 
-­ Input field, whose value is used to search vehicle manufacturers by name. ­ Search results are displayed in a list below the input field. ­ Clicking an item in the search result list, opens a modal returning additional
-manufacturer’s details. ­ Closing the modal, returns the user to the input field and search results. ­ When the input field, has no value in it, no list should be displayed.
+- Input field, whose value is used to search vehicle manufacturers by name. 
+- Search results are displayed in a list below the input field. 
+- Clicking an item in the search result list, opens a modal returning additional
+manufacturer’s details. 
+- Closing the modal, returns the user to the input field and search results. 
+- When the input field, has no value in it, no list should be displayed.

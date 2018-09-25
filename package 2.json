@@ -1,0 +1,19 @@
+{
+  "name": "vroomProject",
+  "version": "1.0.0",
+  "description": "Linda Harrison's assessment for Vroom",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack-dev-server --env.dev",
+    "build": "webpack"
+  },
+  "author": "Linda Harrison",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/preset-react": "^7.0.0"
+  },
+  "dependencies": {
+    "react": "^16.5.2",
+    "react-dom": "^16.5.2"
+  }
+}
